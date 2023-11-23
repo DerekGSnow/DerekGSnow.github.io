@@ -21,9 +21,7 @@ author: Derek Snow
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "projects"
   Author's home: "https://deanattali.com"
 
 ################
