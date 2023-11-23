@@ -7,7 +7,7 @@ subtitle: What have I worked on?
 # Work Projects
 
 ### Internal GPT
-I was the key developer for internal Azure OpenAI GPT client for a company. The project used REST APIs, cloud technologys, and Microsoft Cognitive Services.
+I was the key developer for internal Azure OpenAI GPT client for [Williams](https://williams.com). The project used REST APIs, cloud technologys, and Microsoft Cognitive Services.
 
 ### PubQC
 I assisted in developing an application to detect citation hacking in scientific papers. [PubQC](https://wren.omrf.org/project/pubqc/)
