@@ -12,6 +12,14 @@ I was the key developer for internal Azure OpenAI GPT client for [Williams](http
 ### PubQC
 I assisted in developing an application to detect citation hacking in scientific papers. [PubQC](https://wren.omrf.org/project/pubqc/)
 
+# School Projects
+
+### Databases
+I worked in a team to develop a database for a fictional Taco Truck. Using MS SQL Server, we went through the entire database construction process from creating the ERD, to logical design, normalization, and finally physical design and implementation.
+
+### Web Development
+You're using a site I've developed! From the Beautiful Jekyll template, I've added a few customizations to make it my own. I've also added a few pages to showcase my work.
+
 # Personal Projects
 
 ### Foundry Server Hosting
